@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+work1
+=======
+
+>>>>>>> work2
+
+
+this is line 
+
+this is added
